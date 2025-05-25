@@ -33,5 +33,5 @@ An interactive Streamlit-based application that allows users to perform real-tim
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/equity-research-tool.git
-cd equity-research-tool
+git clone https://github.com/rutikshindepatil21/EquityResearchTool.git
+cd EquityResearchTool
