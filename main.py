@@ -31,7 +31,7 @@ Here's what you can do:
 Stay informed. Stay ahead. 🚀
 """)
 
-acess = "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"
+acess = st.secrets[api_key]
 # getpass()
 
 os.environ["GROQ_API_KEY"] = acess

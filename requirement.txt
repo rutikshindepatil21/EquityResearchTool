@@ -6,3 +6,5 @@ faiss-cpu
 sentence_transformers
 tiktoken
 unstructured
+langchain_huggingface
+schedule
